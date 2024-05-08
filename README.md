@@ -1,8 +1,8 @@
 # Farcaster Frames Poll app
 
-A Frame lets you turn any cast into an interactive app. 
+A Frame lets you turn any cast into an interactive app. This example lets you create a poll and have users vote on it.
 
-This example lets you create a poll and have users vote on it. The FrameAction is authenticated against a hub so the votes cannot be spoofed (if `HUB_URL` is provided), and the results are stored in a redis database. 
+The FrameAction is authenticated against a hub so the votes cannot be spoofed (if `HUB_URL` is provided), and the results are stored in a redis database. 
 
 Here is an updated and complete overview and related documentation:  
 [https://docs.farcaster.xyz/learn/what-is-farcaster/frames/](https://docs.farcaster.xyz/learn/what-is-farcaster/frames/)
